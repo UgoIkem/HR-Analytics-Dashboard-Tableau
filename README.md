@@ -73,25 +73,17 @@ data/HR Data.xlsx
 
 ## Files Included
 
-```
-HR_Analytics_Dashboard.twbx
-```
-
-Packaged Tableau Workbook
-
-```
-data/
-```
-
-Dataset
-
-```
-images/
-```
-
-Dashboard screenshots
+| File / Folder | Description |
+|---------------|-------------|
+| `HR_Analytics_Dashboard.twbx` | Tableau Packaged Workbook containing the complete dashboard. |
+| `data/HR Data.xlsx` | HR dataset used to build the dashboard. |
+| `images/dashboard-preview.png` | Dashboard preview image displayed in this README. |
 
 ---
+
+> **Note:** Download the `.twbx` file to explore the dashboard locally in Tableau Public/Desktop, or use the Tableau Public link above to interact with it online.
+>
+> ---
 
 ## Skills Demonstrated
 
